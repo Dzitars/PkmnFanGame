@@ -1,0 +1,38 @@
+[1]
+Name=Test
+Stage1="Go do a thing at your house"
+Stage2="Do somethign else"
+Reward="$Trainer.money+=200"
+RewardDescription="A description 4"
+StageLocation1="nil"
+StageLocation2=nil
+QuestDescription="This is a test quest description."
+CompletedMessage="You completed this quest"
+FailedMessage="You failed this quest"
+Repeat=0
+[2]
+Name="Go to your house"
+Stage1="Walk in the front door"
+Reward="Kernel.pbMessage('You get something')"
+RewardDescription="A description 1"
+StageLocation1="Cedolan City Poke^ Center"
+QuestDescription="This is a really good quest.  This is also a really long description"
+CompletedMessage="You completed this quest"
+FailedMessage="You failed this quest"
+Repeat=0
+[3]
+Name="Test Shiny Hunt"
+Stage1="Talk to nurse joy"
+Stage2="Talk to the professor"
+Stage3="Test Stage 3"
+Reward="Kernel.pbMessage('You get something')"
+RewardDescription="A description 1"
+StageLocation1="TutorialQuestHut"
+StageLocation2="TutorialQuestHut"
+StageLocation3=nil
+QuestDescription="I need you to go hunt a ${1} for me"
+CompletedMessage="You completed this quest"
+FailedMessage="You failed this quest"
+Repeat=1
+QuestVar0="QUESTVARS[0]=rand(1...649)"
+QuestVar0="QUESTVARS[1]=PBSpecies.getName(QUESTVARS[0])"
