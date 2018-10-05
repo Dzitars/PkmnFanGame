@@ -1,0 +1,18 @@
+Unused/bugged Scripts from SM Pack 2.0
+
+Move LaserFocus.txt
+	couldn't find "def pbEffectsOnMoveEnd" in PokeBattle_Battler
+
+	line in def pbCritical? is throwing an error, commented out
+	https://gyazo.com/855ca4fead62f77b1f2a9d51e252436b
+
+Move-Effect PsychicTerrain.txt
+	When performing a move, get the following error. Had to comment out code in PokeBattle_Battler
+	https://gyazo.com/dc6175aef2deb61e234a56deba2486dc
+
+	in PokeBattle_move, code again throws an error. Commented out
+	https://gyazo.com/dedb3725dd3c12338f8378e3c0b24b2d
+
+Tapu Lele
+	Phychic surge throwing error, commented out completely in PokeBattle_Battler around line 1139
+	https://gyazo.com/08a86ad97324b517c9d3a0188a509f71
