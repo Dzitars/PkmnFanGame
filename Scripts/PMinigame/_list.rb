@@ -1,0 +1,7 @@
+PMinigame_Duel
+PMinigame_TripleTriad
+PMinigame_SlotMachine
+PMinigame_VoltorbFlip
+PMinigame_Lottery
+PMinigame_Mining
+PMinigame_TilePuzzles

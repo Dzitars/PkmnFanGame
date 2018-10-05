@@ -1,0 +1,13 @@
+PBMove
+PBStatuses
+PBTypes_Extra
+PBNatures
+PBExperience
+PBStats
+PBRibbons
+PBEggGroups
+PBColors
+PBEnvironment
+PBEffects
+PBWeather
+PBTargets

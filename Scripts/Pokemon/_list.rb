@@ -1,0 +1,8 @@
+PokeBattle_Pokemon
+Pokemon_Forms
+Pokemon_MegaEvolution
+Pokemon_ShadowPokemon
+Pokemon_Evolution
+Pokemon_Chatter
+Pokemon_Sprites
+Pokemon_Storage

@@ -1,4 +1,4 @@
-﻿#-------------------------------
+#-------------------------------
 [1]
 Name=Bulbasaur
 InternalName=BULBASAUR
@@ -21021,11 +21021,10 @@ Shape=0
 Habitat=Grassland
 Kind=Grass Quill
 Pokedex=This wary Pokémon uses photosynthesis to store up energy during the day, while becoming active at night.
-BattlerPlayerY=0
-BattlerEnemyY=16
+BattlerPlayerY=4
+BattlerEnemyY=3
 BattlerAltitude=0
 Evolutions=DARTRIX,Level,17
-#-------------------------------
 [723]
 Name=Dartrix
 InternalName=DARTRIX
@@ -21050,11 +21049,10 @@ Shape=0
 Habitat=Grassland
 Kind=Blade Quill
 Pokedex=It spends its free time preening its wings. Its preoccupation with any dirt on its plumage can leave it unable to battle.
-BattlerPlayerY=0
-BattlerEnemyY=12
+BattlerPlayerY=4
+BattlerEnemyY=6
 BattlerAltitude=0
 Evolutions=DECIDUEYE,Level,34
-#-------------------------------
 [724]
 Name=Decidueye
 InternalName=DECIDUEYE
@@ -21079,11 +21077,10 @@ Shape=0
 Habitat=Grassland
 Kind=Arrow Quill
 Pokedex=It fires arrow quills from its wings with such precision, they can pierce a pebble from over hundred yards.
-BattlerPlayerY=0
-BattlerEnemyY=4
+BattlerPlayerY=4
+BattlerEnemyY=10
 BattlerAltitude=0
 Evolutions=
-#-------------------------------
 [725]
 Name=Litten
 InternalName=LITTEN
@@ -21109,10 +21106,9 @@ Habitat=Mountain
 Kind=Fire Cat
 Pokedex=While grooming itself, it build up fur inside its stomach. It sets the fur alight and spews fiery attacks, which change based on how it coughs.
 BattlerPlayerY=0
-BattlerEnemyY=16
+BattlerEnemyY=10
 BattlerAltitude=0
 Evolutions=TORRACAT,Level,17
-#-------------------------------
 [726]
 Name=Torracat
 InternalName=TORRACAT
@@ -21136,11 +21132,10 @@ Shape=0
 Habitat=Mountain
 Kind=Fire Cat
 Pokedex=At its throat, it bears a bell of fire. The bell rings brightly whenever this Pokémon spits fire.
-BattlerPlayerY=0
-BattlerEnemyY=5
+BattlerPlayerY=5
+BattlerEnemyY=17
 BattlerAltitude=0
 Evolutions=INCINEROAR,Level,34
-#-------------------------------
 [727]
 Name=Incineroar
 InternalName=INCINEROAR
@@ -21165,11 +21160,10 @@ Shape=0
 Habitat=Mountain
 Kind=Heel
 Pokedex=This Pokémon has a violent, selfish disposition. When in a bad mood, it may ignore its Trainer's orders with complete nonchalance.
-BattlerPlayerY=0
-BattlerEnemyY=4
+BattlerPlayerY=6
+BattlerEnemyY=30
 BattlerAltitude=0
 Evolutions=
-#-------------------------------
 [728]
 Name=Popplio
 InternalName=POPPLIO
@@ -21194,11 +21188,10 @@ Shape=0
 Habitat=Sea
 Kind=Sea Lion
 Pokedex=This Pokémon snorts body fluid from its nose, blowing balloons to smash into its foes. It's famous for being a hard worker.
-BattlerPlayerY=0
-BattlerEnemyY=16
+BattlerPlayerY=2
+BattlerEnemyY=9
 BattlerAltitude=0
 Evolutions=BRIONNE,Level,17
-#-------------------------------
 [729]
 Name=Brionne
 InternalName=BRIONNE
@@ -21222,11 +21215,10 @@ Shape=0
 Habitat=Sea
 Kind=Pop Star
 Pokedex=A skillful dancer, it creates a sequence of water balloons as it dances, and briskly bombards its enemies.
-BattlerPlayerY=0
-BattlerEnemyY=11
+BattlerPlayerY=9
+BattlerEnemyY=4
 BattlerAltitude=0
 Evolutions=PRIMARINA,Level,34
-#-------------------------------
 [730]
 Name=Primarina
 InternalName=PRIMARINA
@@ -21251,11 +21243,10 @@ Shape=0
 Habitat=Sea
 Kind=Soloist
 Pokedex=It controls its water balloons by singing. The melody is learned from others of its kind and is passed down a generation.
-BattlerPlayerY=0
-BattlerEnemyY=4
+BattlerPlayerY=8
+BattlerEnemyY=7
 BattlerAltitude=0
 Evolutions=
-#-------------------------------
 [731]
 Name=Pikipek
 InternalName=PIKIPEK
@@ -21282,11 +21273,10 @@ Habitat=Grassland
 Kind=Woodpecker
 Pokedex=It can peck at a rate of 16 times a second to drill holes in trees. It uses the holes for food storage and nesting.
 WildItemUncommon=ORANBERRY
-BattlerPlayerY=0
-BattlerEnemyY=16
+BattlerPlayerY=1
+BattlerEnemyY=5
 BattlerAltitude=0
 Evolutions=TRUMBEAK,Level,14
-#-------------------------------
 [732]
 Name=Trumbeak
 InternalName=TRUMBEAK
@@ -21312,11 +21302,10 @@ Habitat=Grassland
 Kind=Bugle Beak
 Pokedex=It eats berries and stores their seeds in its beak. When it encounters enemies or Prey, it fires off all the seeds in a burst.
 WildItemUncommon=SITRUSBERRY
-BattlerPlayerY=0
-BattlerEnemyY=11
+BattlerPlayerY=-21
+BattlerEnemyY=-5
 BattlerAltitude=0
 Evolutions=TOUCANNON,Level,28
-#-------------------------------
 [733]
 Name=Toucannon
 InternalName=TOUCANNON
@@ -21342,10 +21331,9 @@ Habitat=Grassland
 Kind=Cannon
 Pokedex=When it battles its beak heats up. The heat can easily exceed 100 degrees Celcius, causing severe burns when it hits.
 BattlerPlayerY=0
-BattlerEnemyY=7
+BattlerEnemyY=13
 BattlerAltitude=0
 Evolutions=
-#-------------------------------
 [734]
 Name=Yungoos
 InternalName=YUNGOOS
@@ -21371,11 +21359,10 @@ Habitat=Grassland
 Kind=Loitering
 Pokedex=It wanders around in a never-ending search for food. At dusk, it collapses from exhaustioni and falls asleep on the spot.
 WildItemUncommon=PECHABERRY
-BattlerPlayerY=0
-BattlerEnemyY=16
+BattlerPlayerY=42
+BattlerEnemyY=27
 BattlerAltitude=0
 Evolutions=GUMSHOOS,LevelDay,20
-#-------------------------------
 [735]
 Name=Gumshoos
 InternalName=GUMSHOOS
@@ -21400,11 +21387,10 @@ Habitat=Grassland
 Kind=Stakeout
 Pokedex=When it finds a trace of its prey, it patiently stakes out the location, but it's always snoozing by nightfall.
 WildItemUncommon=PECHABERRY
-BattlerPlayerY=0
-BattlerEnemyY=10
+BattlerPlayerY=5
+BattlerEnemyY=6
 BattlerAltitude=0
 Evolutions=
-#-------------------------------
 [736]
 Name=Grubbin
 InternalName=GRUBBIN
@@ -21428,11 +21414,10 @@ Shape=0
 Habitat=Grassland
 Kind=Larva
 Pokedex=Its strong jaw enables it to scrape trees and slurp out the sap. It normally lives underground.
-BattlerPlayerY=0
-BattlerEnemyY=25
+BattlerPlayerY=14
+BattlerEnemyY=17
 BattlerAltitude=0
 Evolutions=CHARJABUG,Level,20
-#-------------------------------
 [737]
 Name=Charjabug
 InternalName=CHARJABUG
@@ -21457,11 +21442,10 @@ Habitat=Grassland
 Kind=Battery
 Pokedex=Its body is capable of storing electricity. On camping trips, people are grateful to have one around.
 WildItemUncommon=CELLBATTERY
-BattlerPlayerY=0
-BattlerEnemyY=18
+BattlerPlayerY=21
+BattlerEnemyY=27
 BattlerAltitude=0
 Evolutions=VIKAVOLT,Level,32
-#-------------------------------
 [738]
 Name=Vikavolt
 InternalName=VIKAVOLT
@@ -21485,11 +21469,10 @@ Shape=0
 Habitat=Grassland
 Kind=Stag Beetle
 Pokedex=It zips around, on sharp lookout for an opening. It concentrates electrical energy within its large jaws and uses it to zap its enemies.
-BattlerPlayerY=0
-BattlerEnemyY=10
+BattlerPlayerY=-41
+BattlerEnemyY=-24
 BattlerAltitude=0
 Evolutions=
-#-------------------------------
 [739]
 Name=Crabrawler
 InternalName=CRABRAWLER
@@ -21515,11 +21498,10 @@ Habitat=Grassland
 Kind=Boxing
 Pokedex=It punches so much, its pincers often come off from overuse, but they grow back quickly.
 WildItemUncommon=ASPEARBERRY
-BattlerPlayerY=0
-BattlerEnemyY=6
+BattlerPlayerY=14
+BattlerEnemyY=14
 BattlerAltitude=0
 Evolutions=CRABOMINABLE,Level,26
-#-------------------------------
 [740]
 Name=Crabominable
 InternalName=CRABOMINABLE
@@ -21544,11 +21526,10 @@ Shape=0
 Habitat=Mountain
 Kind=Woolly Crab
 Pokedex=It aimed for the top but got lost and ended up on a snowy mountain. Being forced to endure the cold, this Pokémon evolved.
-BattlerPlayerY=0
-BattlerEnemyY=4
+BattlerPlayerY=22
+BattlerEnemyY=35
 BattlerAltitude=0
 Evolutions=
-#-------------------------------
 [741]
 Name=Oricorio
 InternalName=ORICORIO
@@ -21574,11 +21555,10 @@ Habitat=Grassland
 Kind=Dancing
 Pokedex=It beats its wings together to create fire. As it moves in the steps of its beautiful dance, it bathes opponents in flames.
 WildItemUncommon=HONEY
-BattlerPlayerY=0
-BattlerEnemyY=8
+BattlerPlayerY=6
+BattlerEnemyY=5
 BattlerAltitude=0
 Evolutions=
-#-------------------------------
 [742]
 Name=Cutiefly
 InternalName=CUTIEFLY
@@ -21605,11 +21585,10 @@ Habitat=Grassland
 Kind=Bee Fly
 Pokedex=Because Cutiefly are able to sense auras, they can identify which flowers are about to bloom.
 WildItemUncommon=HONEY
-BattlerPlayerY=6
-BattlerEnemyY=17
+BattlerPlayerY=-27
+BattlerEnemyY=-25
 BattlerAltitude=0
 Evolutions=RIBOMBEE,Level,25
-#-------------------------------
 [743]
 Name=Ribombee
 InternalName=RIBOMBEE
@@ -21635,11 +21614,10 @@ Habitat=Grassland
 Kind=Bee Fly
 Pokedex=It rolls up pollen into puffs. It makes many different varieties, some used as food and others for battle.
 WildItemUncommon=HONEY
-BattlerPlayerY=0
-BattlerEnemyY=10
+BattlerPlayerY=-22
+BattlerEnemyY=-10
 BattlerAltitude=0
 Evolutions=
-#-------------------------------
 [744]
 Name=Rockruff
 InternalName=ROCKRUFF
@@ -21664,11 +21642,10 @@ Shape=0
 Habitat=Mountain
 Kind=Puppy
 Pokedex=It's a good Pokémon for beginners because of its friendlinless, but its disposition grows rougher as it grows up.
-BattlerPlayerY=0
-BattlerEnemyY=18
+BattlerPlayerY=1
+BattlerEnemyY=4
 BattlerAltitude=0
-Evolutions=LYCANROC,Level,25
-#-------------------------------
+Evolutions=LYCANROC,LevelDay,25,LYCANROCN,LevelNight,25
 [745]
 Name=Lycanroc
 InternalName=LYCANROC
@@ -21692,11 +21669,10 @@ Shape=0
 Habitat=Mountain
 Kind=Wolf
 Pokedex=Its quick moves confuse its enemies. Well equipped with claws and fangs, it also uses the rocks in its mane as weapons.
-BattlerPlayerY=0
-BattlerEnemyY=11
+BattlerPlayerY=19
+BattlerEnemyY=7
 BattlerAltitude=0
 Evolutions=
-#-------------------------------
 [746]
 Name=Wishiwashi
 InternalName=WISHIWASHI
@@ -21720,11 +21696,10 @@ Shape=0
 Habitat=Sea
 Kind=Small Fry
 Pokedex=When in trouble, their eyes shine. The shining light attracts its comrades who will help them out.
-BattlerPlayerY=0
-BattlerEnemyY=25
+BattlerPlayerY=-60
+BattlerEnemyY=-24
 BattlerAltitude=0
 Evolutions=
-#-------------------------------
 [747]
 Name=Mareanie
 InternalName=MAREANIE
@@ -21751,11 +21726,10 @@ Habitat=Sea
 Kind=Brutal Star
 Pokedex=The coral that grows on Corsola's head is as good as a five-star banquet to this Pokémon.
 WildItemUncommon=POISONBARB
-BattlerPlayerY=0
-BattlerEnemyY=17
+BattlerPlayerY=10
+BattlerEnemyY=11
 BattlerAltitude=0
 Evolutions=TOXAPEX,Level,38
-#-------------------------------
 [748]
 Name=Toxapex
 InternalName=TOXAPEX
@@ -21780,11 +21754,10 @@ Shape=0
 Habitat=Sea
 Kind=Brutal Star
 Pokedex=It crawls along the ocean floor on its 12 legs. It leaves a trail of Corsola bits scattered in its wake.
-BattlerPlayerY=0
-BattlerEnemyY=9
+BattlerPlayerY=26
+BattlerEnemyY=30
 BattlerAltitude=0
 Evolutions=
-#-------------------------------
 [749]
 Name=Mudbray
 InternalName=MUDBRAY
@@ -21810,11 +21783,10 @@ Habitat=Grassland
 Kind=Donkey
 Pokedex=The mud stuck to Mudbray's hooves enhances its grip and its powerful running gait.
 WildItemUncommon=LIGHTCLAY
-BattlerPlayerY=0
-BattlerEnemyY=8
+BattlerPlayerY=3
+BattlerEnemyY=13
 BattlerAltitude=0
 Evolutions=MUDSDALE,Level,30
-#-------------------------------
 [750]
 Name=Mudsdale
 InternalName=MUDSDALE
@@ -21839,11 +21811,10 @@ Habitat=Grassland
 Kind=Draft Horse
 Pokedex=It spits a mud that provides resistance to both wind and rain, so the walls of old houses were often coated with it.
 WildItemUncommon=LIGHTCLAY
-BattlerPlayerY=0
-BattlerEnemyY=4
+BattlerPlayerY=6
+BattlerEnemyY=5
 BattlerAltitude=0
 Evolutions=
-#-------------------------------
 [751]
 Name=Dewpider
 InternalName=DEWPIDER
@@ -21870,11 +21841,10 @@ Habitat=WatersEdge
 Kind=Water Bubble
 Pokedex=It crawls onto the land in search of food. Its water bubble allows it to breathe and protects its soft head.
 WildItemUncommon=MYSTICWATER
-BattlerPlayerY=0
-BattlerEnemyY=14
+BattlerPlayerY=4
+BattlerEnemyY=1
 BattlerAltitude=0
 Evolutions=ARAQUANID,Level,22
-#-------------------------------
 [752]
 Name=Araquanid
 InternalName=ARAQUANID
@@ -21900,11 +21870,10 @@ Habitat=WatersEdge
 Kind=Water Bubble
 Pokedex=It delivers headbutts with the water bubbleon its head. Small Pokémon get sucked in the bubble and drown.
 WildItemUncommon=MYSTICWATER
-BattlerPlayerY=0
-BattlerEnemyY=8
+BattlerPlayerY=28
+BattlerEnemyY=25
 BattlerAltitude=0
 Evolutions=
-#-------------------------------
 [753]
 Name=Fomantis
 InternalName=FOMANTIS
@@ -21931,10 +21900,9 @@ Kind=Sickle Grass
 Pokedex=During the day, it sleeps and soaks up light. When night falls, it walks around looking for a safer place to sleep.
 WildItemUncommon=MIRACLESEED
 BattlerPlayerY=0
-BattlerEnemyY=15
+BattlerEnemyY=4
 BattlerAltitude=0
 Evolutions=LURANTIS,LevelDay,34
-#-------------------------------
 [754]
 Name=Lurantis
 InternalName=LURANTIS
@@ -21958,11 +21926,10 @@ Shape=0
 Habitat=Grassland
 Kind=Bloom Sickle
 Pokedex=It fires beams from its petals. These beams are powerful enough to cleave through thick metal plates.
-BattlerPlayerY=0
-BattlerEnemyY=6
+BattlerPlayerY=17
+BattlerEnemyY=28
 BattlerAltitude=25
 Evolutions=
-#-------------------------------
 [755]
 Name=Morelull
 InternalName=MORELULL
@@ -21990,11 +21957,10 @@ Kind=Illuminating
 Pokedex=It scatters spores that flicker and glow. Anyone seeing these lights falls into a deep slumber.
 WildItemCommon=TINYMUSHROOM
 WildItemUncommon=BIGMUSHROOM
-BattlerPlayerY=0
-BattlerEnemyY=12
+BattlerPlayerY=1
+BattlerEnemyY=5
 BattlerAltitude=0
 Evolutions=SHIINOTIC,Level,24
-#-------------------------------
 [756]
 Name=Shiinotic
 InternalName=SHIINOTIC
@@ -22019,11 +21985,10 @@ Shape=0
 Habitat=Grassland
 Kind=Illuminating
 Pokedex=Forests where Shiinotic live are treacherous to enter at night. People are confused by their lights and get lost.
-BattlerPlayerY=0
-BattlerEnemyY=7
+BattlerPlayerY=11
+BattlerEnemyY=11
 BattlerAltitude=0
 Evolutions=
-#-------------------------------
 [757]
 Name=Salandit
 InternalName=SALANDIT
@@ -22050,11 +22015,10 @@ Habitat=Mountain
 Kind=Toxic Lizard
 Pokedex=It burns its bodily fluids to create poisonous gas. It attack its enemies once they inhale it.
 WildItemUncommon=SMOKEBALL
-BattlerPlayerY=0
-BattlerEnemyY=9
+BattlerPlayerY=38
+BattlerEnemyY=25
 BattlerAltitude=0
 Evolutions=SALAZZLE,LevelFemale,33
-#-------------------------------
 [758]
 Name=Salazzle
 InternalName=SALAZZLE
@@ -22079,11 +22043,10 @@ Shape=0
 Habitat=Mountain
 Kind=Toxic Lizard
 Pokedex=Filled with pheromones, its poisonous gas can be diluted to use in the production of perfumes.
-BattlerPlayerY=0
-BattlerEnemyY=4
+BattlerPlayerY=25
+BattlerEnemyY=10
 BattlerAltitude=0
 Evolutions=
-#-------------------------------
 [759]
 Name=Stufful
 InternalName=STUFFUL
@@ -22109,11 +22072,10 @@ Shape=0
 Habitat=Grassland
 Kind=Flailing
 Pokedex=Despite its adorable appearance, when it gets angry, its arms and legs could knock a pro wrestler sprawling.
-BattlerPlayerY=0
-BattlerEnemyY=17
+BattlerPlayerY=5
+BattlerEnemyY=4
 BattlerAltitude=0
 Evolutions=BEWEAR,Level,27
-#-------------------------------
 [760]
 Name=Bewear
 InternalName=BEWEAR
@@ -22139,10 +22101,9 @@ Habitat=Grassland
 Kind=Strong Arm
 Pokedex=This immensely dangerous Pokémon possesses overwhelming strength. Its habitat is generally off=limits.
 BattlerPlayerY=0
-BattlerEnemyY=5
+BattlerEnemyY=1
 BattlerAltitude=0
 Evolutions=
-#-------------------------------
 [761]
 Name=Bounsweet
 InternalName=BOUNSWEET
@@ -22169,10 +22130,9 @@ Kind=Fruit
 Pokedex=A delectable aroma pours from its body. They are often swallowed by birds lured by that wafting deliciousness.
 WildItemUncommon=GRASSYSEED
 BattlerPlayerY=0
-BattlerEnemyY=18
+BattlerEnemyY=4
 BattlerAltitude=0
 Evolutions=STEENEE,Level,18
-#-------------------------------
 [762]
 Name=Steenee
 InternalName=STEENEE
@@ -22196,11 +22156,10 @@ Shape=0
 Habitat=Grassland
 Kind=Fruit
 Pokedex=The sepals on its head are quite hard, so even if pecked by bird Pokémon, this Pokémon is totally fine.
-BattlerPlayerY=0
-BattlerEnemyY=13
+BattlerPlayerY=1
+BattlerEnemyY=3
 BattlerAltitude=0
 Evolutions=TSAREENA,HasMove,STOMP
-#-------------------------------
 [763]
 Name=Tsareena
 InternalName=TSAREENA
@@ -22224,11 +22183,10 @@ Shape=0
 Habitat=Grassland
 Kind=Fruit
 Pokedex=Its long, striking legs aren't just for show but to be used to kick with skill.
-BattlerPlayerY=0
+BattlerPlayerY=5
 BattlerEnemyY=4
 BattlerAltitude=0
 Evolutions=
-#-------------------------------
 [764]
 Name=Comfey
 InternalName=COMFEY
@@ -22254,11 +22212,10 @@ Habitat=Grassland
 Kind=Posy Picker
 Pokedex=It attaches flowers to its highly nutritious vine. This revitalizes the flower and give off an aromatic scent.
 WildItemUncommon=MISTYSEED
-BattlerPlayerY=0
-BattlerEnemyY=12
+BattlerPlayerY=-12
+BattlerEnemyY=-4
 BattlerAltitude=0
 Evolutions=
-#-------------------------------
 [765]
 Name=Oranguru
 InternalName=ORANGURU
@@ -22284,11 +22241,10 @@ Shape=0
 Habitat=Grassland
 Kind=Sage
 Pokedex=Known for its intelligence, this Pokémon looks down on inexperienced Trainers, so it's best for veteran Trainers.
-BattlerPlayerY=0
-BattlerEnemyY=10
+BattlerPlayerY=12
+BattlerEnemyY=6
 BattlerAltitude=0
 Evolutions=
-#-------------------------------
 [766]
 Name=Passimian
 InternalName=PASSIMIAN
@@ -22313,11 +22269,10 @@ Shape=0
 Habitat=Grassland
 Kind=Teamwork
 Pokedex=They form groups of about 20 individuals. Their mutual bond is remarkable - They will never let down a comrade.
-BattlerPlayerY=0
-BattlerEnemyY=8
+BattlerPlayerY=33
+BattlerEnemyY=11
 BattlerAltitude=0
 Evolutions=
-#-------------------------------
 [767]
 Name=Wimpod
 InternalName=WIMPOD
@@ -22342,11 +22297,10 @@ Shape=0
 Habitat=WatersEdge
 Kind=Turn Tail
 Pokedex=As it desperately dashes off, the flailing of its many legs leave a sparkling clean path in its wake.
-BattlerPlayerY=0
-BattlerEnemyY=18
+BattlerPlayerY=59
+BattlerEnemyY=38
 BattlerAltitude=0
 Evolutions=GOLISOPOD,Level,30
-#-------------------------------
 [768]
 Name=Golisopod
 InternalName=GOLISOPOD
@@ -22370,11 +22324,10 @@ Shape=0
 Habitat=WatersEdge
 Kind=Hard Scale
 Pokedex=With a flashing slash of its giant sharp claws, it cleaves seawater - or even air - right into two.
-BattlerPlayerY=0
-BattlerEnemyY=4
+BattlerPlayerY=6
+BattlerEnemyY=10
 BattlerAltitude=0
 Evolutions=
-#-------------------------------
 [769]
 Name=Sandygast
 InternalName=SANDYGAST
@@ -22401,11 +22354,10 @@ Habitat=WatersEdge
 Kind=Sand Heap
 Pokedex=Born from a sand mound playfully built by a child, this Pokémon embodies the grudges of the departed.
 WildItemUncommon=SPELLTAG
-BattlerPlayerY=0
-BattlerEnemyY=15
+BattlerPlayerY=13
+BattlerEnemyY=19
 BattlerAltitude=0
 Evolutions=PALOSSAND,Level,42
-#-------------------------------
 [770]
 Name=Palossand
 InternalName=PALOSSAND
@@ -22430,11 +22382,10 @@ Shape=0
 Habitat=WatersEdge
 Kind=Sand Castle
 Pokedex=Buried beneath the castle are masses of bones from those whose vitality it has drained.
-BattlerPlayerY=0
-BattlerEnemyY=5
+BattlerPlayerY=14
+BattlerEnemyY=22
 BattlerAltitude=0
 Evolutions=
-#-------------------------------
 [771]
 Name=Pyukumuku
 InternalName=PYUKUMUKU
@@ -22459,11 +22410,10 @@ Shape=0
 Habitat=WatersEdge
 Kind=Sea Cucumber
 Pokedex=It can eject its internal organs, which it uses to engulf its prey or battle enemies.
-BattlerPlayerY=0
-BattlerEnemyY=19
+BattlerPlayerY=13
+BattlerEnemyY=13
 BattlerAltitude=0
 Evolutions=
-#-------------------------------
 [772]
 Name=Type: Null
 InternalName=TYPENULL
@@ -22486,11 +22436,10 @@ Shape=0
 Habitat=Rare
 Kind=Synthetic
 Pokedex=The heavy control mask it wears suppresses its capabilities. This Pokémon has some hidden special power.
-BattlerPlayerY=0
-BattlerEnemyY=5
+BattlerPlayerY=3
+BattlerEnemyY=11
 BattlerAltitude=0
 Evolutions=SILVALLY,Happiness,
-#-------------------------------
 [773]
 Name=Silvally
 InternalName=SILVALLY
@@ -22513,11 +22462,10 @@ Shape=0
 Habitat=Rare
 Kind=Synthetic
 Pokedex=Its trust in its partner is what awakens it. This Pokémon is capable of changing its type.
-BattlerPlayerY=0
-BattlerEnemyY=4
+BattlerPlayerY=2
+BattlerEnemyY=9
 BattlerAltitude=0
 Evolutions=
-#-------------------------------
 [774]
 Name=Minior
 InternalName=MINIOR
@@ -22542,11 +22490,10 @@ Habitat=Mountain
 Kind=Meteor
 Pokedex=Strong impacts can knock it out of its shell. This Pokémon was born from mutated nanoparticles.
 WildItemUncommon=STARPIECE
-BattlerPlayerY=0
-BattlerEnemyY=18
+BattlerPlayerY=-49
+BattlerEnemyY=-20
 BattlerAltitude=0
 Evolutions=
-#-------------------------------
 [775]
 Name=Komala
 InternalName=KOMALA
@@ -22571,10 +22518,9 @@ Habitat=Grassland
 Kind=Drowsing
 Pokedex=The log it holds was give to it by its parents. It is also known to cling to the arm of a friendly Trainer.
 BattlerPlayerY=0
-BattlerEnemyY=16
+BattlerEnemyY=8
 BattlerAltitude=0
 Evolutions=
-#-------------------------------
 [776]
 Name=Turtonator
 InternalName=TURTONATOR
@@ -22600,11 +22546,10 @@ Habitat=Mountain
 Kind=Blast Turtle
 Pokedex=The shell on its back is chemically unstable and explodes violently. The hole in its stomach is its weak point.
 WildItemUncommon=CHARCOAL
-BattlerPlayerY=0
+BattlerPlayerY=5
 BattlerEnemyY=4
 BattlerAltitude=0
 Evolutions=
-#-------------------------------
 [777]
 Name=Togedemaru
 InternalName=TOGEDEMARU
@@ -22631,11 +22576,10 @@ Habitat=Mountain
 Kind=Roly-Poly
 Pokedex=The long hairs on its back act as lightning rods. The bolts of lightning it attracts are stored as energy.
 WildItemUncommon=ELECTRICSEED
-BattlerPlayerY=0
-BattlerEnemyY=18
+BattlerPlayerY=2
+BattlerEnemyY=5
 BattlerAltitude=0
 Evolutions=
-#-------------------------------
 [778]
 Name=Mimikyu
 InternalName=MIMIKYU
@@ -22662,10 +22606,9 @@ Kind=Disguise
 Pokedex=Its actual appearance is unknown. When a scholar saw what was under its rag, it was overwhelmed by terror and died.
 WildItemUncommon=CHESTOBERRY
 BattlerPlayerY=0
-BattlerEnemyY=17
+BattlerEnemyY=5
 BattlerAltitude=0
 Evolutions=
-#-------------------------------
 [779]
 Name=Bruxish
 InternalName=BRUXISH
@@ -22692,11 +22635,10 @@ Habitat=Sea
 Kind=Gnash Teeth
 Pokedex=It stuns its prey with psychokinesis and then grinds them to mush with its strong teeth.
 WildItemUncommon=RAZORFANG
-BattlerPlayerY=0
-BattlerEnemyY=14
+BattlerPlayerY=-24
+BattlerEnemyY=-13
 BattlerAltitude=0
 Evolutions=
-#-------------------------------
 [780]
 Name=Drampa
 InternalName=DRAMPA
@@ -22723,11 +22665,10 @@ Habitat=Mountain
 Kind=Placid
 Pokedex=It has a compassionate personality, but when angered, it completely destroys its surroundings with its breath.
 WildItemUncommon=PERSIMBERRY
-BattlerPlayerY=0
-BattlerEnemyY=4
+BattlerPlayerY=24
+BattlerEnemyY=12
 BattlerAltitude=0
 Evolutions=
-#-------------------------------
 [781]
 Name=Dhelmise
 InternalName=DHELMISE
@@ -22751,11 +22692,10 @@ Shape=0
 Habitat=Sea
 Kind=Sea Creeper
 Pokedex=Swinging its massive anchor, it can KO Wailord in a single blow. What appears to be green seaweed is actually its body.
-BattlerPlayerY=0
-BattlerEnemyY=4
+BattlerPlayerY=-22
+BattlerEnemyY=-9
 BattlerAltitude=0
 Evolutions=
-#-------------------------------
 [782]
 Name=Jangmo-o
 InternalName=JANGMOO
@@ -22781,11 +22721,10 @@ Habitat=Mountain
 Kind=Scaly
 Pokedex=It expresses its feelings by smacking its scales. Metallic sounds echo through the tall mountains where it lives.
 WildItemUncommon=RAZORCLAW
-BattlerPlayerY=0
-BattlerEnemyY=12
+BattlerPlayerY=5
+BattlerEnemyY=5
 BattlerAltitude=0
 Evolutions=HAKAMOO,Level,35
-#-------------------------------
 [783]
 Name=Hakamo-o
 InternalName=HAKAMOO
@@ -22811,11 +22750,10 @@ Habitat=Mountain
 Kind=Scaly
 Pokedex=It leaps at its prey with a courageous shout. Its scaly punches can tear its opponents to shreds.
 WildItemUncommon=RAZORCLAW
-BattlerPlayerY=0
-BattlerEnemyY=4
+BattlerPlayerY=9
+BattlerEnemyY=7
 BattlerAltitude=0
 Evolutions=KOMMOO,Level,45
-#-------------------------------
 [784]
 Name=Kommo-o
 InternalName=KOMMOO
@@ -22841,11 +22779,10 @@ Habitat=Mountain
 Kind=Scaly
 Pokedex=When it spots enemies, it threatens them by jingling its scales. Weak opponents will crack and flee in panic.
 WildItemUncommon=RAZORCLAW
-BattlerPlayerY=0
-BattlerEnemyY=4
+BattlerPlayerY=18
+BattlerEnemyY=10
 BattlerAltitude=0
 Evolutions=
-#-------------------------------
 [785]
 Name=Tapu Koko
 InternalName=TAPUKOKO
@@ -22870,11 +22807,10 @@ Shape=0
 Habitat=Rare
 Kind=Land Spirit
 Pokedex=This guardian deity of Melemele is brimming with curiosity. It summons thunderclouds and stores their lightning.
-BattlerPlayerY=0
-BattlerEnemyY=4
+BattlerPlayerY=9
+BattlerEnemyY=11
 BattlerAltitude=0
 Evolutions=
-#-------------------------------
 [786]
 Name=Tapu Lele
 InternalName=TAPULELE
@@ -22899,11 +22835,10 @@ Shape=0
 Habitat=Rare
 Kind=Land Spirit
 Pokedex=This guardian deity of Akala is guilelessly cruel. The fragrant aroma of flowers is the source of its energy.
-BattlerPlayerY=0
-BattlerEnemyY=4
+BattlerPlayerY=-28
+BattlerEnemyY=-17
 BattlerAltitude=0
 Evolutions=
-#-------------------------------
 [787]
 Name=Tapu Bulu
 InternalName=TAPUBULU
@@ -22928,11 +22863,10 @@ Shape=0
 Habitat=Rare
 Kind=Land Spirit
 Pokedex=This guardian deity of Ula'ula is lazy. It commands plants to immobilize its foes and then hits them with its horns.
-BattlerPlayerY=0
-BattlerEnemyY=4
+BattlerPlayerY=-32
+BattlerEnemyY=-8
 BattlerAltitude=0
 Evolutions=
-#-------------------------------
 [788]
 Name=Tapu Fini
 InternalName=TAPUFINI
@@ -22957,11 +22891,10 @@ Shape=0
 Habitat=Rare
 Kind=Land Spirit
 Pokedex=This guardian deity of Poni controls water. They say it can create pure water that will wash away any uncleanness.
-BattlerPlayerY=0
-BattlerEnemyY=4
+BattlerPlayerY=-17
+BattlerEnemyY=-18
 BattlerAltitude=0
 Evolutions=
-#-------------------------------
 [789]
 Name=Cosmog
 InternalName=COSMOG
@@ -22984,11 +22917,10 @@ Shape=0
 Habitat=Rare
 Kind=Nebula
 Pokedex=Its body is gaseous and frail. It slowsly grows as it collects dust from the atmosphere.
-BattlerPlayerY=0
-BattlerEnemyY=14
+BattlerPlayerY=-19
+BattlerEnemyY=2
 BattlerAltitude=0
 Evolutions=COSMOEM,Level,43
-#-------------------------------
 [790]
 Name=Cosmoem
 InternalName=COSMOEM
@@ -23011,11 +22943,10 @@ Shape=0
 Habitat=Rare
 Kind=Protostar
 Pokedex=Motionless as if dead, its body is faintly warm to the touch. In the distant past, it was called the cocoon of stars.
-BattlerPlayerY=0
-BattlerEnemyY=13
+BattlerPlayerY=-15
+BattlerEnemyY=-13
 BattlerAltitude=0
 Evolutions=SOLGALEO,LevelDay,53,LUNALA,LevelNight,53
-#-------------------------------
 [791]
 Name=Solgaleo
 InternalName=SOLGALEO
@@ -23039,11 +22970,10 @@ Shape=0
 Habitat=Rare
 Kind=Sunne
 Pokedex=At activation of its third eye, it departs for another world where it is said to live.
-BattlerPlayerY=0
-BattlerEnemyY=4
+BattlerPlayerY=21
+BattlerEnemyY=11
 BattlerAltitude=0
 Evolutions=
-#-------------------------------
 [792]
 Name=Lunala
 InternalName=LUNALA
@@ -23067,11 +22997,10 @@ Shape=0
 Habitat=Rare
 Kind=Moone
 Pokedex=When its third eye activates, away it flies to another world where it is said to live.
-BattlerPlayerY=0
-BattlerEnemyY=4
+BattlerPlayerY=-19
+BattlerEnemyY=2
 BattlerAltitude=0
 Evolutions=
-#-------------------------------
 [793]
 Name=Nihilego
 InternalName=NIHILEGO
@@ -23095,11 +23024,10 @@ Shape=0
 Habitat=Rare
 Kind=Parasite
 Pokedex=People on the street report observing those infested by it suddenly becoming violent. It is an Ultra Beast.
-BattlerPlayerY=0
-BattlerEnemyY=5
+BattlerPlayerY=-2
+BattlerEnemyY=-9
 BattlerAltitude=0
 Evolutions=
-#-------------------------------
 [794]
 Name=Buzzwole
 InternalName=BUZZWOLE
@@ -23123,11 +23051,10 @@ Shape=0
 Habitat=Rare
 Kind=Swollen
 Pokedex=People saw it pulverize a dump truck with a single punch. It is an Ultra Beast.
-BattlerPlayerY=0
-BattlerEnemyY=4
+BattlerPlayerY=8
+BattlerEnemyY=7
 BattlerAltitude=0
 Evolutions=
-#-------------------------------
 [795]
 Name=Pheromosa
 InternalName=PHEROMOSA
@@ -23151,11 +23078,10 @@ Shape=0
 Habitat=Rare
 Kind=Lissome
 Pokedex=It refuses to touch anything, perhaps because it senses uncleanness in this world. It is an Ultra Beast.
-BattlerPlayerY=0
-BattlerEnemyY=4
+BattlerPlayerY=6
+BattlerEnemyY=7
 BattlerAltitude=0
 Evolutions=
-#-------------------------------
 [796]
 Name=Xurkitree
 InternalName=XURKITREE
@@ -23178,11 +23104,10 @@ Shape=0
 Habitat=Rare
 Kind=Glowing
 Pokedex=Because it raided a power plant, people think it energizes itself with electricity. It is an Ultra Beast.
-BattlerPlayerY=0
-BattlerEnemyY=4
+BattlerPlayerY=3
+BattlerEnemyY=11
 BattlerAltitude=0
 Evolutions=
-#-------------------------------
 [797]
 Name=Celesteela
 InternalName=CELESTEELA
@@ -23207,10 +23132,9 @@ Habitat=Rare
 Kind=Launch
 Pokedex=People have seen it burn down a forest by expelling gas from its two arms. It is an Ultra Beast.
 BattlerPlayerY=0
-BattlerEnemyY=4
+BattlerEnemyY=18
 BattlerAltitude=0
 Evolutions=
-#-------------------------------
 [798]
 Name=Kartana
 InternalName=KARTANA
@@ -23235,10 +23159,9 @@ Habitat=Rare
 Kind=Drawn Sword
 Pokedex=People observed it cutting down a gigantic steel tower with one stroke of its blade. It is an Ultra Beast.
 BattlerPlayerY=0
-BattlerEnemyY=7
+BattlerEnemyY=25
 BattlerAltitude=0
 Evolutions=
-#-------------------------------
 [799]
 Name=Guzzlord
 InternalName=GUZZLORD
@@ -23262,11 +23185,10 @@ Shape=0
 Habitat=Rare
 Kind=Junkivore
 Pokedex=People claim to have seen it gobble mountains and swallow whole building. It is an Ultra Beast.
-BattlerPlayerY=0
-BattlerEnemyY=4
+BattlerPlayerY=78
+BattlerEnemyY=35
 BattlerAltitude=0
 Evolutions=
-#-------------------------------
 [800]
 Name=Necrozma
 InternalName=NECROZMA
@@ -23289,11 +23211,10 @@ Shape=0
 Habitat=Rare
 Kind=Prism
 Pokedex=Light is apparently the source of its energy. It is thought to have come from another world in ancient times.
-BattlerPlayerY=0
-BattlerEnemyY=4
+BattlerPlayerY=-12
+BattlerEnemyY=6
 BattlerAltitude=0
 Evolutions=
-#-------------------------------
 [801]
 Name=Magearna
 InternalName=MAGEARNA
@@ -23317,11 +23238,10 @@ Shape=0
 Habitat=Rare
 Kind=Aritificial
 Pokedex=This artificial Pokémon, more than 500 years old, can understand human speech but cannot speak itself.
-BattlerPlayerY=0
-BattlerEnemyY=5
+BattlerPlayerY=3
+BattlerEnemyY=4
 BattlerAltitude=0
 Evolutions=
-#-------------------------------
 [802]
 Name=Marshadow
 InternalName=MARSHADOW
@@ -23345,11 +23265,10 @@ Shape=0
 Habitat=Rare
 Kind=Gloomdweller
 Pokedex=Able to conceal itself in shadows, it never appears before human, so its very existence was the stuff of myth.
-BattlerPlayerY=0
-BattlerEnemyY=13
+BattlerPlayerY=3
+BattlerEnemyY=3
 BattlerAltitude=0
 Evolutions=
-#-------------------------------
 [803]
 Name=Zygarde
 InternalName=ZYGARDE10
@@ -23357,7 +23276,7 @@ Type1=DRAGON
 Type2=GROUND
 BaseStats=54,100,71,115,61,85
 GenderRate=Genderless
-GrowthRate=Fluctuating
+GrowthRate=Slow
 BaseEXP=270
 EffortPoints=3,0,0,0,0,0
 Rareness=3
@@ -23378,8 +23297,34 @@ BattlerPlayerY=5
 BattlerEnemyY=6
 BattlerAltitude=0
 Evolutions=
-#-------------------------------
 [804]
+Name=Lycanroc
+InternalName=LYCANROCN
+Type1=ROCK
+BaseStats=85,115,75,55,75,82
+GenderRate=Female50Percent
+GrowthRate=Medium
+BaseEXP=170
+EffortPoints=0,2,0,0,0,0
+Rareness=90
+Happiness=70
+Abilities=KEENEYE,VITALSPIRIT
+HiddenAbility=NOGUARD
+Moves=1,COUNTER,1,REVERSAL,1,TAUNT,1,LEER,4,SANDATTACK,7,BITE,12,HOWL,15,ROCKTHROW,18,ODORSLEUTH,23,ROCKTOMB,26,ROAR,29,STEALTHROCK,34,ROCKSLIDE,37,SCARYFACE,40,CRUNCH,45,ROCKCLIMB,48,STONEEDGE
+Compatibility=Field
+StepsToHatch=4096
+Height=1.1
+Weight=25.0
+Color=Red
+Shape=0
+Habitat=Mountain
+Kind=Wolf
+Pokedex=The more intimidating the opponent it faces, the more this Pokémon's blood boils. It will disregard its safety.
+BattlerPlayerY=6
+BattlerEnemyY=8
+BattlerAltitude=0
+Evolutions=
+[805]
 Name=Rattata
 InternalName=ARATTATA
 Type1=DARK
@@ -23405,12 +23350,11 @@ Habitat=Urban
 Kind=Mouse
 Pokedex=With its incisors, it gnaws through doors and infiltrates people's homes. Then it steals whatever food it finds.
 WildItemUncommon=PECHABERRY
-BattlerPlayerY=7
-BattlerEnemyY=13
+BattlerPlayerY=28
+BattlerEnemyY=4
 BattlerAltitude=0
 Evolutions=ARATICATE,LevelNight,20
-#-------------------------------
-[805]
+[806]
 Name=Raticate
 InternalName=ARATICATE
 Type1=DARK
@@ -23435,12 +23379,11 @@ Habitat=Urban
 Kind=Mouse
 Pokedex=It forms a group of Rattata, which it assumes command of. Each group has its own territory, and disputs over food happen often.
 WildItemUncommon=PECHABERRY
-BattlerPlayerY=8
+BattlerPlayerY=26
 BattlerEnemyY=12
 BattlerAltitude=0
 Evolutions=
-#-------------------------------
-[806]
+[807]
 Name=Raichu
 InternalName=ARAICHU
 Type1=ELECTRIC
@@ -23463,12 +23406,11 @@ Shape=0
 Habitat=Urban
 Kind=Mouse
 Pokedex=It uses psychokinesis to control electricity. It hops aboard its own tail, using psychic powers to lift it and move about.
-BattlerPlayerY=6
-BattlerEnemyY=6
+BattlerPlayerY=-36
+BattlerEnemyY=-30
 BattlerAltitude=0
 Evolutions=
-#-------------------------------
-[807]
+[808]
 Name=Sandshrew
 InternalName=ASANDSHREW
 Type1=ICE
@@ -23494,12 +23436,11 @@ Habitat=Mountain
 Kind=Mouse
 Pokedex=It lives on snowy mountains. Its steel shell is very hard--so much so, it can't roll its body up into a ball.
 WildItemUncommon=GRIPCLAW
-BattlerPlayerY=15
-BattlerEnemyY=16
+BattlerPlayerY=6
+BattlerEnemyY=3
 BattlerAltitude=0
 Evolutions=ASANDSLASH,Item,ICESTONE
-#-------------------------------
-[808]
+[809]
 Name=Sandslash
 InternalName=ASANDSLASH
 Type1=ICE
@@ -23524,12 +23465,11 @@ Habitat=Mountain
 Kind=Mouse
 Pokedex=Fleeing a volcanic eruption, it settled on a snowy mountain. As it races through the snowfields, it sends up a spray of snow.
 WildItemUncommon=QUICKCLAW
-BattlerPlayerY=6
-BattlerEnemyY=5
+BattlerPlayerY=3
+BattlerEnemyY=6
 BattlerAltitude=0
 Evolutions=
-#-------------------------------
-[809]
+[810]
 Name=Vulpix
 InternalName=AVULPIX
 Type1=ICE
@@ -23554,12 +23494,11 @@ Habitat=Grassland
 Kind=Fox
 Pokedex=In hot weather, this Pokémon makes ice shards with its six tails and sprays them around to cool itself off.
 WildItemUncommon=SNOWBALL
-BattlerPlayerY=5
-BattlerEnemyY=14
+BattlerPlayerY=11
+BattlerEnemyY=3
 BattlerAltitude=0
 Evolutions=ANINETALES,Item,ICESTONE
-#-------------------------------
-[810]
+[811]
 Name=Ninetales
 InternalName=ANINETALES
 Type1=ICE
@@ -23583,12 +23522,11 @@ Shape=0
 Habitat=Grassland
 Kind=Fox
 Pokedex=It creates drops of ice in its coat and showers them over its enemies. Anyone who angers it will be frozen stiff in an instant.
-BattlerPlayerY=5
-BattlerEnemyY=5
+BattlerPlayerY=27
+BattlerEnemyY=19
 BattlerAltitude=0
 Evolutions=
-#-------------------------------
-[811]
+[812]
 Name=Diglett
 InternalName=ADIGLETT
 Type1=GROUND
@@ -23614,12 +23552,11 @@ Habitat=Cave
 Kind=Mole
 Pokedex=Its golden hairs function as sensors. It pokes them out of its burrow to monitor its surroundings.
 WildItemUncommon=SOFTSAND
-BattlerPlayerY=14
-BattlerEnemyY=21
+BattlerPlayerY=1
+BattlerEnemyY=2
 BattlerAltitude=0
 Evolutions=ADUGTRIO,Level,26
-#-------------------------------
-[812]
+[813]
 Name=Dugtrio
 InternalName=ADUGTRIO
 Type1=GROUND
@@ -23644,12 +23581,11 @@ Habitat=Cave
 Kind=Mole
 Pokedex=Its shining gold hair provides it with protection. It's reputed that keeping any of its fallen hairs will bring bad luck.
 WildItemUncommon=SOFTSAND
-BattlerPlayerY=9
-BattlerEnemyY=11
+BattlerPlayerY=23
+BattlerEnemyY=21
 BattlerAltitude=0
 Evolutions=
-#-------------------------------
-[813]
+[814]
 Name=Meowth
 InternalName=AMEOWTH
 Type1=DARK
@@ -23674,12 +23610,11 @@ Habitat=Urban
 Kind=Scratch Cat
 Pokedex=When its pride is wounded, or when the gold coin on its forehead is dirtied, it flies into a hysterical rage.
 WildItemUncommon=QUICKCLAW
-BattlerPlayerY=7
-BattlerEnemyY=13
+BattlerPlayerY=0
+BattlerEnemyY=4
 BattlerAltitude=0
 Evolutions=APERSIAN,Happiness,
-#-------------------------------
-[814]
+[815]
 Name=Persian
 InternalName=APERSIAN
 Type1=DARK
@@ -23702,12 +23637,11 @@ Shape=0
 Habitat=Urban
 Kind=Classy Cat
 Pokedex=It looks down on everyone other than itself. Its preferred tactics are sucker punches and blindside attacks.
-BattlerPlayerY=7
-BattlerEnemyY=9
+BattlerPlayerY=34
+BattlerEnemyY=10
 BattlerAltitude=0
 Evolutions=
-#-------------------------------
-[815]
+[816]
 Name=Geodude
 InternalName=AGEODUDE
 Type1=ROCK
@@ -23733,12 +23667,11 @@ Habitat=Cave
 Kind=Rock
 Pokedex=Its body is a magnetic stone. Iron sand attaches to the portions of its body that are particularly magnetic.
 WildItemUncommon=CELLBATTERY
-BattlerPlayerY=12
-BattlerEnemyY=22
+BattlerPlayerY=-26
+BattlerEnemyY=-7
 BattlerAltitude=0
 Evolutions=AGRAVELER,Level,25
-#-------------------------------
-[816]
+[817]
 Name=Graveler
 InternalName=AGRAVELER
 Type1=ROCK
@@ -23763,12 +23696,11 @@ Habitat=Cave
 Kind=Rock
 Pokedex=Its preferred food is dravite. After it's eaten, crystals form inside the Pokémon, rising to the surface of its body.
 WildItemUncommon=CELLBATTERY
-BattlerPlayerY=10
-BattlerEnemyY=14
+BattlerPlayerY=18
+BattlerEnemyY=31
 BattlerAltitude=0
 Evolutions=AGOLEM,Trade,
-#-------------------------------
-[817]
+[818]
 Name=Golem
 InternalName=AGOLEM
 Type1=ROCK
@@ -23792,12 +23724,11 @@ Shape=0
 Habitat=Cave
 Kind=Megaton
 Pokedex=Because it can't fire boulders at a rapid pace, it's been known to seize nearby Geodude and fire them from its back.
-BattlerPlayerY=12
-BattlerEnemyY=4
+BattlerPlayerY=3
+BattlerEnemyY=7
 BattlerAltitude=0
 Evolutions=
-#-------------------------------
-[818]
+[819]
 Name=Grimer
 InternalName=AGRIMER
 Type1=POISON
@@ -23824,11 +23755,10 @@ Kind=Sludge
 Pokedex=The crystals on Grimer's body are lumps of toxins. If one falls off, lethal poisons leak out.
 WildItemUncommon=BLACKSLUDGE
 BattlerPlayerY=15
-BattlerEnemyY=18
+BattlerEnemyY=17
 BattlerAltitude=0
 Evolutions=AMUK,Level,38
-#-------------------------------
-[819]
+[820]
 Name=Muk
 InternalName=AMUK
 Type1=POISON
@@ -23852,19 +23782,18 @@ Shape=0
 Habitat=Urban
 Kind=Sludge
 Pokedex=The garbage it eats causes continuous chemical changes in its body, which produce its exceedingly vivid coloration.
-BattlerPlayerY=8
-BattlerEnemyY=11
+BattlerPlayerY=42
+BattlerEnemyY=45
 BattlerAltitude=0
 Evolutions=
-#-------------------------------
-[820]
+[821]
 Name=Exeggutor
 InternalName=AEXEGGUTOR
 Type1=GRASS
 Type2=DRAGON
 BaseStats=95,105,85,45,125,75
 GenderRate=Female50Percent
-GrowthRate=Fluctuating
+GrowthRate=Slow
 BaseEXP=186
 EffortPoints=0,0,0,2,0,0
 Rareness=45
@@ -23881,12 +23810,11 @@ Shape=0
 Habitat=Grassland
 Kind=Coconut
 Pokedex=As it grew taller and taller, it outgrew its reliance on psychic powers, awakening the power of the sleeping dragon.
-BattlerPlayerY=0
-BattlerEnemyY=5
+BattlerPlayerY=1
+BattlerEnemyY=6
 BattlerAltitude=0
 Evolutions=
-#-------------------------------
-[821]
+[822]
 Name=Marowak
 InternalName=AMAROWAK
 Type1=FIRE
@@ -23910,7 +23838,7 @@ Shape=0
 Habitat=Mountain
 Kind=Bone Keeper
 Pokedex=Its custom is to mourn its lost companions. Mounds of dirt by the side of the road mark the graves of the Marowak.
-BattlerPlayerY=8
-BattlerEnemyY=5
+BattlerPlayerY=3
+BattlerEnemyY=15
 BattlerAltitude=0
 Evolutions=

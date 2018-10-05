@@ -1,0 +1,8 @@
+PItem_Items
+PItem_ItemEffects
+PItem_PokeBalls
+PItem_Phone
+PItem_PokeRadar
+PItem_Mail
+PItem_Sprites
+PItem_Bag

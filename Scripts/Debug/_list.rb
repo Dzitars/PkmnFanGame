@@ -1,0 +1,3 @@
+Debug_Menu
+Debug_Actions
+Debug_Pokemon
